@@ -15,7 +15,7 @@ The hardware consists of:
 
 The arduino code is very simple, the only particularly tastey part is the use of math formulas to build the procedural animations easier. These formulas came from fiddling with another project of mine, which can be found [here](https://github.com/jgoergen/VarVisualizer). The video demonstrates the use of that project, you will need to download the index.html from it and run it in your browser from a local folder on your computer.
 
-## improvement ideas
+## Improvement ideas
 This repository is meant more as a suppliment to the video linked above, so there are certainly alot of things you could do to add features. Here are a few ideas:
 1. Add a button that switches between modes like (no lightning, with lightning, bright white lamp, dim white lamp, etc)
 2. Add a proximity sensor so it turns off when no one is around
