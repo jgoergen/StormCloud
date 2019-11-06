@@ -1,10 +1,10 @@
 # StormCloud!
 Arduino sketch for building Storm Clouds with color changing and intermittent lightning.
 
-This is project is meant to go with a 'Code-Along' video I posted on my [Youtube Channel](https://hackerboxes.com/collections/frontpage/products/hackerbox-0024-vision-quest).
+This is project is meant to go with a 'Code-Along' video I posted on my [Youtube Channel](https://www.youtube.com/channel/UCg8RE6u8D5YrNh_cvSdOajw?view_as=subscriber).
 
 ## Video walkthrough of the hardware build and Code
-[![Storm Cloud Video](https://img.youtube.com/vi/nbJNLVBo_g4/0.jpg)](https://www.youtube.com/watch?v=nbJNLVBo_g4)
+[![Storm Cloud Video](https://img.youtube.com/vi/8T8jHofT5Eo/0.jpg)](https://www.youtube.com/watch?v=8T8jHofT5Eo)
 
 The hardware consists of:
 ( Amazon links added for beginners looking for easier options to purchase. )
